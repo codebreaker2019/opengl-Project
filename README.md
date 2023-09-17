@@ -1,5 +1,5 @@
 # opengl Project
- snakes game 
+ snake game 
  
  language: C++
  All functions are opengl's funvtion like glulookat.....
